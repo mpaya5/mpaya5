@@ -1,6 +1,14 @@
 # 💫 About Me:
-🔭 I’m currently working on Inversiti as a Lead Developer.<br>👯 I’m looking to collaborate on projects related about Blockchain.<br>🤝 I’m looking for help with any project developed in Python.<br>🌱 I’m currently learning a Master(Conquer Blocks) related about Blockchain Development<br>💬 Ask me about whatever you want, via LinkedIn. I always answer back.<br>⚡
-
+🇬🇧🙌 Hi! I'm Miguel Payá, Lead Developer at ONOS and a student of the Master in Blockchain Development at ConquerBlocks.
+<br>
+🎓 Since 2020, I have been self-taught in programming and have acquired skills in various languages, including python, javascript, solidity, and php. I've applied these skills to develop projects from scratch, including websites, systems, and software. My focus on problem solving, initiative, and ability to work on multiple tasks has allowed me to make the most of my programming skills.
+<br>
+I am passionate about blockchain technology and firmly believe in its potential to have a significant impact on our lives in the near future. That's why I decided to deepen my knowledge in this field through the Master in Blockchain Development at ConquerBlocks. I am excited to apply my skills and knowledge to blockchain-related projects and be part of building a safer and decentralized future.
+<br>
+🎯 My professional goal is to create and develop innovative tools and systems based on blockchain technology that can transform the way we do business and live our daily lives.
+<br>
+If you're interested in connecting and sharing ideas about blockchain, feel free to send me an invitation to connect. I am excited to be part of a vibrant and innovative community.
+<br>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discord.gg/TQb4H4S6eU) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mpaya5/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/miguelpaya5/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://es.quora.com/profile/Miguel-Pay%C3%A1) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://es.stackoverflow.com/users/224052/miguel-pay%c3%a1) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/mpaya05) 
