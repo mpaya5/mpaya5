@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Iakronos as a CTO.<br>👯 I’m looking to collaborate on projects related about Blockchain.<br>🤝 I’m looking for help with any project developed in Python.<br>🌱 I’m currently learning a Master(Conquer Blocks) related about Blockchain Development<br>💬 Ask me about whatever you want, via LinkedIn. I always answer back.<br>⚡
+🔭 I’m currently working on Inversiti as a Lead Developer.<br>👯 I’m looking to collaborate on projects related about Blockchain.<br>🤝 I’m looking for help with any project developed in Python.<br>🌱 I’m currently learning a Master(Conquer Blocks) related about Blockchain Development<br>💬 Ask me about whatever you want, via LinkedIn. I always answer back.<br>⚡
 
 
 ## 🌐 Socials:
