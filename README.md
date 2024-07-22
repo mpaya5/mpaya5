@@ -1,13 +1,15 @@
 # 💫 About Me:
-🇬🇧🙌 Hi! I'm Miguel Payá, Lead Developer at ONOS and a student of the Master in Blockchain Development at ConquerBlocks.
+🇬🇧🙌 Hi! I'm Miguel Payá, a Python Engineer at Profile Software Services and currently pursuing a Master's in Blockchain Development at ConquerBlocks.
 <br><br>
-🎓 Since 2020, I have been self-taught in programming and have acquired skills in various languages, including python, javascript, solidity, and php. I've applied these skills to develop projects from scratch, including websites, systems, and software. My focus on problem solving, initiative, and ability to work on multiple tasks has allowed me to make the most of my programming skills.
+🎓 Since 2020, I've been on a self-taught journey in programming, gaining skills in Python, JavaScript, Solidity, and PHP. My passion for problem-solving and initiative has driven me to develop various projects, including websites and software systems.
 <br><br>
-I am passionate about blockchain technology and firmly believe in its potential to have a significant impact on our lives in the near future. That's why I decided to deepen my knowledge in this field through the Master in Blockchain Development at ConquerBlocks. I am excited to apply my skills and knowledge to blockchain-related projects and be part of building a safer and decentralized future.
+At Profile Software Services, I work with a talented team developing systems and services for the data architecture team. One of my key contributions includes designing and developing a robust Data Unification Platform, leveraging Python, Flask, and PostgreSQL to streamline data integration from multiple sources.
 <br><br>
-🎯 My professional goal is to create and develop innovative tools and systems based on blockchain technology that can transform the way we do business and live our daily lives.
+I actively engage with the Datahub community, specializing in its entities and schemas, and have earned recognition for my contributions. This collaboration has enhanced my ability to create resilient data structures and solve complex problems.
 <br><br>
-If you're interested in connecting and sharing ideas about blockchain, feel free to send me an invitation to connect. I am excited to be part of a vibrant and innovative community.
+🎯 Blockchain technology is a major passion of mine, and I believe in its transformative potential for our future. This passion drives me to deepen my knowledge through my master's program. My professional goal is to create innovative blockchain-based tools and systems that can revolutionize how we do business and live our daily lives.
+<br><br>
+If you're interested in connecting and sharing ideas about blockchain, feel free to reach out. I'm excited to be part of a vibrant and innovative community!
 <br><br>
 
 ## 🌐 Socials:
