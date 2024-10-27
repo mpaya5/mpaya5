@@ -1,5 +1,5 @@
 # 💫 About Me:
-🇬🇧🙌 Hi! I'm Miguel Payá, a Python Engineer at Profile Software Services and currently pursuing a Master's in Blockchain Development at ConquerBlocks.
+🙌 Hi! I'm Miguel Payá, a Python Engineer at Profile Software Services and currently pursuing a Master's in Blockchain Development at ConquerBlocks.
 <br><br>
 🎓 Since 2020, I've been on a self-taught journey in programming, gaining skills in Python, JavaScript, Solidity, and PHP. My passion for problem-solving and initiative has driven me to develop various projects, including websites and software systems.
 <br><br>
