@@ -1,15 +1,15 @@
 # 💫 About Me:
-🙌 Hi! I'm Miguel Payá, a Python Engineer at Profile Software Services and currently pursuing a Master's in Blockchain Development at ConquerBlocks.
+🙌 Hi! I'm Miguel Payá, a Python Engineer at YeagerAI and currently pursuing a Master's in Blockchain Development at ConquerBlocks.
 <br><br>
-🎓 Since 2020, I've been on a self-taught journey in programming, gaining skills in Python, JavaScript, Solidity, and PHP. My passion for problem-solving and initiative has driven me to develop various projects, including websites and software systems.
+🎓 Since 2020, I've followed a self-taught path in programming, gaining skills in Python, JavaScript, Solidity, and PHP. My passion for problem-solving and initiative has led me to develop various projects, including websites, software systems, and now, applications that explore the transformative potential of blockchain and artificial intelligence.
 <br><br>
-At Profile Software Services, I work with a talented team developing systems and services for the data architecture team. One of my key contributions includes designing and developing a robust Data Unification Platform, leveraging Python, Flask, and PostgreSQL to streamline data integration from multiple sources.
+At YeagerAI, I have the opportunity to work with a visionary team on GenLayer, an innovative blockchain that integrates AI into its consensus algorithm. My focus is on optimizing the performance and security of Python code powering this technology, creating a solid and efficient foundation for next-generation decentralized applications.
 <br><br>
-I actively engage with the Datahub community, specializing in its entities and schemas, and have earned recognition for my contributions. This collaboration has enhanced my ability to create resilient data structures and solve complex problems.
+Throughout my journey, I’ve actively contributed to the DataHub community, specializing in its entities and schemas, which has strengthened my ability to design resilient data structures and tackle complex problems.
 <br><br>
-🎯 Blockchain technology is a major passion of mine, and I believe in its transformative potential for our future. This passion drives me to deepen my knowledge through my master's program. My professional goal is to create innovative blockchain-based tools and systems that can revolutionize how we do business and live our daily lives.
+🎯 Blockchain technology is a great passion of mine, and I firmly believe in its transformative potential for the future. This passion drives me to deepen my knowledge through my master’s program, with the goal of creating innovative tools and systems that revolutionize how we interact and do business in our daily lives.
 <br><br>
-If you're interested in connecting and sharing ideas about blockchain, feel free to reach out. I'm excited to be part of a vibrant and innovative community!
+If you’re interested in connecting and sharing ideas about blockchain or AI, feel free to reach out. I'm excited to be part of such a vibrant and innovative community!
 <br><br>
 
 ## 🌐 Socials:
