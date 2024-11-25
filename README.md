@@ -1,16 +1,14 @@
 # 💫 About Me:
-🙌 Hi! I'm Miguel Payá, a Python Engineer at YeagerAI and currently pursuing a Master's in Blockchain Development at ConquerBlocks.
-<br><br>
-🎓 Since 2020, I've followed a self-taught path in programming, gaining skills in Python, JavaScript, Solidity, and PHP. My passion for problem-solving and initiative has led me to develop various projects, including websites, software systems, and now, applications that explore the transformative potential of blockchain and artificial intelligence.
-<br><br>
-At YeagerAI, I have the opportunity to work with a visionary team on GenLayer, an innovative blockchain that integrates AI into its consensus algorithm. My focus is on optimizing the performance and security of Python code powering this technology, creating a solid and efficient foundation for next-generation decentralized applications.
-<br><br>
-Throughout my journey, I’ve actively contributed to the DataHub community, specializing in its entities and schemas, which has strengthened my ability to design resilient data structures and tackle complex problems.
-<br><br>
-🎯 Blockchain technology is a great passion of mine, and I firmly believe in its transformative potential for the future. This passion drives me to deepen my knowledge through my master’s program, with the goal of creating innovative tools and systems that revolutionize how we interact and do business in our daily lives.
-<br><br>
-If you’re interested in connecting and sharing ideas about blockchain or AI, feel free to reach out. I'm excited to be part of such a vibrant and innovative community!
-<br><br>
+I am a versatile software developer with over 4 years of experience in Python programming, blockchain development, and trading systems. I specialize in designing and implementing secure, scalable, and innovative solutions at the intersection of technology and finance.
+
+Currently, I am a Python Engineer at YeagerAI, where I focus on blockchain and AI integrations. Alongside my role, I also offer freelance services to clients globally, helping them innovate and scale through tailored blockchain and backend solutions.
+
+Key areas of expertise:
+ - Blockchain Development: Smart contracts, DApps, token creation, and seamless integrations with Ethereum, BEP20, and Web3 technologies.
+ - Trading Automation: Development of custom trading bots, strategy backtesting, and market-making systems for crypto and forex platforms.
+ - Backend Engineering: Scalable REST/GraphQL APIs, database optimization, and robust architectures using Python, Flask, and FastAPI.
+
+I thrive on solving complex challenges and delivering impactful results. Whether you’re looking to enhance financial systems with blockchain or build trading automation tools, let’s create something remarkable together.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discord.gg/TQb4H4S6eU) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mpaya5/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/miguelpaya5/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://es.quora.com/profile/Miguel-Pay%C3%A1) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://es.stackoverflow.com/users/224052/miguel-pay%c3%a1) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/mpaya05) 
