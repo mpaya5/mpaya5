@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a versatile software developer with over 4 years of experience in Python programming, blockchain development, and trading systems. I specialize in designing and implementing secure, scalable, and innovative solutions at the intersection of technology and finance.
+I am a versatile software developer with over 6 years of experience in Python programming, blockchain development, and trading systems. I specialize in designing and implementing secure, scalable, and innovative solutions at the intersection of technology and finance.
 
 Currently, I am a Python Engineer at YeagerAI, where I focus on blockchain and AI integrations. Alongside my role, I also offer freelance services to clients globally, helping them innovate and scale through tailored blockchain and backend solutions.
 
