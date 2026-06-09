@@ -1,32 +1,146 @@
-# 💫 About Me:
-I am a versatile software developer with over 6 years of experience in Python programming, blockchain development, and trading systems. I specialize in designing and implementing secure, scalable, and innovative solutions at the intersection of technology and finance.
+# 👋 Hi, I'm Miguel Payá
 
-Currently, I am a Python Engineer at YeagerAI, where I focus on blockchain and AI integrations. Alongside my role, I also offer freelance services to clients globally, helping them innovate and scale through tailored blockchain and backend solutions.
+## 💫 About Me
 
-Key areas of expertise:
- - Blockchain Development: Smart contracts, DApps, token creation, and seamless integrations with Ethereum, BEP20, and Web3 technologies.
- - Trading Automation: Development of custom trading bots, strategy backtesting, and market-making systems for crypto and forex platforms.
- - Backend Engineering: Scalable REST/GraphQL APIs, database optimization, and robust architectures using Python, Flask, and FastAPI.
+I'm a **Senior Python Backend Engineer** with 6+ years of experience building backend systems, APIs, integrations and automation platforms across **fintech, trading, blockchain, data architecture and AI-assisted software modernization**.
 
-I thrive on solving complex challenges and delivering impactful results. Whether you’re looking to enhance financial systems with blockchain or build trading automation tools, let’s create something remarkable together.
+My strongest background is at the intersection of:
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discord.gg/TQb4H4S6eU) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mpaya5/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/miguelpaya5/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://es.quora.com/profile/Miguel-Pay%C3%A1) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://es.stackoverflow.com/users/224052/miguel-pay%c3%a1) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/mpaya05) 
+* **Python Backend Engineering**
+* **Trading Systems & Market-Making Tooling**
+* **Blockchain Infrastructure & DeFi**
+* **API Design & System Integration**
+* **Data Indexing, Automation and Platform Tooling**
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mpaya5&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mpaya5&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mpaya5&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+I have worked on crypto trading platforms, market-making systems, blockchain explorers, protocol indexing, smart contract tooling, enterprise backend services, and AI-assisted modernization platforms.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mpaya5&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+I'm especially interested in roles and projects related to **backend architecture, scalable APIs, blockchain infrastructure, DeFi systems, trading automation, distributed systems and developer tooling**.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mpaya5&icon=5&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 What I Work On
+
+### Backend Engineering
+
+* Python backend services with **Flask** and **FastAPI**
+* REST APIs, API integrations and platform tooling
+* PostgreSQL, SQLAlchemy and data modeling
+* Microservices, Docker, Kubernetes and cloud-oriented architectures
+
+### Trading & Quant Systems
+
+* Trading automation and strategy tooling
+* Market-making and liquidity-provision systems
+* Crypto exchange integrations
+* Real-time market data with WebSockets
+* Monitoring, account valuation and operational tooling
+
+### Blockchain & DeFi
+
+* Blockchain infrastructure and protocol indexing
+* Smart contract event listeners
+* Hardhat-based testing and local blockchain workflows
+* DeFi prototypes, AMMs and market-making concepts
+* Solidity learning and EVM-based development
+
+### AI & Modernization
+
+* Backend tooling for AI-assisted legacy modernization
+* LLM-based code analysis workflows
+* Technical documentation generation
+* Validation of AI-generated migration outputs
+
+---
+
+## 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Miguel%20Pay%C3%A1-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/miguelpaya5/)
+[![GitHub](https://img.shields.io/badge/GitHub-yumewebs-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/yumewebs)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Miguel%20Pay%C3%A1-FE7A16?style=for-the-badge\&logo=stackoverflow\&logoColor=white)](https://es.stackoverflow.com/users/224052/miguel-pay%c3%a1)
+[![Twitter/X](https://img.shields.io/badge/X-mpaya05-000000?style=for-the-badge\&logo=x\&logoColor=white)](https://twitter.com/mpaya05)
+[![Instagram](https://img.shields.io/badge/Instagram-mpaya5-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/mpaya5/)
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge\&logo=solidity\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
+![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge\&logo=gnu-bash\&logoColor=white)
+
+### Backend & APIs
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge\&logo=graphql\&logoColor=white)
+
+### Databases & Data
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+
+### Messaging, Real-Time & Infrastructure
+
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge\&logo=apachekafka\&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge\&logo=docker\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge\&logo=githubactions\&logoColor=white)
+
+### Blockchain & Web3
+
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge\&logo=ethereum\&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-F7DF1E?style=for-the-badge)
+![Web3](https://img.shields.io/badge/Web3-F16822?style=for-the-badge)
+![DeFi](https://img.shields.io/badge/DeFi-1E1E1E?style=for-the-badge)
+![Smart Contracts](https://img.shields.io/badge/Smart%20Contracts-363636?style=for-the-badge)
+
+---
+
+## 📌 Areas of Interest
+
+* Backend Architecture
+* API Design
+* Trading Systems
+* Market-Making Tooling
+* Blockchain Infrastructure
+* DeFi Protocol Tooling
+* Event-Driven Systems
+* AI-Assisted Developer Tools
+* Software Modernization
+* Distributed Systems
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=mpaya5\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=mpaya5\&theme=dark\&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mpaya5\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=true\&layout=compact)
+
+---
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=mpaya5\&theme=radical\&no-frame=false\&no-bg=true\&margin-w=4)
+
+---
+
+## ✍️ Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=dark)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=mpaya5\&icon=5\&color=1)](https://visitcount.itsvg.in)
