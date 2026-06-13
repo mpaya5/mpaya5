@@ -52,16 +52,6 @@ I'm especially interested in roles and projects related to **backend architectur
 
 ---
 
-## 🌐 Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Miguel%20Pay%C3%A1-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/miguelpaya5/)
-[![GitHub](https://img.shields.io/badge/GitHub-yumewebs-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/yumewebs)
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Miguel%20Pay%C3%A1-FE7A16?style=for-the-badge\&logo=stackoverflow\&logoColor=white)](https://es.stackoverflow.com/users/224052/miguel-pay%c3%a1)
-[![Twitter/X](https://img.shields.io/badge/X-mpaya05-000000?style=for-the-badge\&logo=x\&logoColor=white)](https://twitter.com/mpaya05)
-[![Instagram](https://img.shields.io/badge/Instagram-mpaya5-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/mpaya5/)
-
----
-
 ## 💻 Tech Stack
 
 ### Languages
